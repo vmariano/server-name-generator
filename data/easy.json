@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "content": "Sandwich de atun"
+  },
+  {
+    "id": 2,
+    "content": "Milanesas con ensalada"
+  },
+  {
+    "id": 3,
+    "content": "Ensalada con quinoa"
+  },
+  {
+    "id": 4,
+    "content": "Medallon de garbanzos con pure"
+  },
+  {
+    "id": 5,
+    "content": "Sandwiches de fiambre"
+  },
+  {
+    "id": 6,
+    "content": "Verduras salteadas con arroz"
+  },
+  {
+    "id": 7,
+    "content": "Omellette con ensalada"
+  },
+  {
+    "id": 8,
+    "content": "Gyozas y verduras al vapor"
+  },
+  {
+    "id": 9,
+    "content": "Fideos con pesto"
+  },
+  {
+    "id": 10,
+    "content": "Ravioles con filletto"
+  },
+  {
+    "id": 11,
+    "content": "Ensalada de atun"
+  },
+  {
+    "id": 12,
+    "content": "Ensalada Cesar"
+  },
+  {
+    "id": 13,
+    "content": "Merluza y papas al vapor"
+  },
+  {
+    "id": 14,
+    "content": "Empanadas "
+  },
+  {
+    "id": 15,
+    "content": "Tarta de acelga"
+  },
+  {
+    "id": 16,
+    "content": "Pizza"
+  },
+  {
+    "id": 17,
+    "content": "Sandwiches de vegetales asados con queso"
+  },
+  {
+    "id": 18,
+    "content": "Calabaza rellena"
+  },
+  {
+    "id": 19,
+    "content": "Entraña con ensalada"
+  }
+]
